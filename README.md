@@ -16,5 +16,5 @@
   <a href="https://github.com/jothank" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jothank" target="_blank"><img src="https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jothank/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jothank@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-gray?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jothank@hotmail.com"><img src="https://img.shields.io/badge/-Contato-gray?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
 </div>
