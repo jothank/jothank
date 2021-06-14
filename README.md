@@ -1,4 +1,4 @@
-## Olá, tudo bem? seja bem vindo!
+## Olá, tudo bem? Seja bem vindo(a)!
 
 <div>
   <a href="https://github.com/jothank">
