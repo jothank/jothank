@@ -14,3 +14,6 @@
   <a href = "mailto:jothank@hotmail.com"><img src="https://img.shields.io/badge/-Contato-gray?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
 </div>
   
+<div>
+ ![Snake animation](https://github.com/jothank/jothank/blob/output/github-contribution-grid-snake.svg)
+</div>
