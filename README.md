@@ -13,6 +13,7 @@
   <a href="https://www.linkedin.com/in/jothank/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jothank@hotmail.com"><img src="https://img.shields.io/badge/-Contato-gray?style=flat-square&logo=Gmail&logoColor=white" target="_blank"></a>
 
+  
  ![Snake animation](https://github.com/jothank/jothank/blob/output/github-contribution-grid-snake.svg)
   
 </div>
